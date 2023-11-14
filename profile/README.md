@@ -1,5 +1,5 @@
 ## HubSpot Developer Relations Team
-Building trust, and inspiring developers to grow with us, connect with each other, and build for the customer.
+Inspiring developers on the HubSpot Platform to grow with us, connect with peers, and build for their customers.
 
 <!--
 
