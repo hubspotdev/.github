@@ -1,121 +1,57 @@
-# HubSpot Dev Contributor Covenant Code of Conduct
-
-## Our Pledge
-
-We as members, contributors, and leaders of the HubSpotDev Github organization pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
-
-## Our Standards
-
-Examples of behavior that contributes to a positive environment for our
-community include:
-
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
-
-Examples of unacceptable behavior include:
-
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-
-## Enforcement Responsibilities
-
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject
-commits, code, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+# HubSpot Developer Relations Global Code of Conduct
 
 ## Scope
+This code of conduct applies to all repositories within the HubSpot Developer Relations Github Organization (HubSpotDev). Please note that this code of conduct may vary depending on the repository and we encourage you to review each repository's code of conduct before participating/contributing.
+## Our Pledge to you, our community of developers
+The HubSpot Developer Relations Team’s mission is to inspire and enable developers to grow better with the HubSpot Platform while serving as your voice within HubSpot. We pledge to make participation in this community a harassment-free experience for everyone regardless of age, body size, disability (visible or invisible), ethnicity, sexual characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## Our Standards and Expectations
+At HubSpot, we don’t have pages of policies or procedures and instead have a three-word policy of “Use Good Judgement” (UGJ) and to always have HEART. We encourage our community to also UGJ and to share in the following core values of HubSpot: 
 
-This Code of Conduct applies within the HubSpotDev Github organization.
+**Be Humble:** Nothing is perfect, especially when it comes to coding. Be self-aware and always be respectful.  
+**Be Empathetic:** Don’t just be understanding of someone’s comments or questions, also act with compassion and respect for all.  
+**Be Adaptable:** Be curious, ask questions, and always be ready to change. Be a life-long learner.  
+**Be Remarkable:** Share your knowledge, provide resources for others to view, and don’t be afraid to be awesome.  
+**Be Transparent:** Be open and honest with others, most importantly, yourself.  
 
-## Enforcement
+### Examples of behavior that follows UGJ and HEART
+* Demonstrating empathy and kindness toward other people who are trying to learn
+* Being respectful of differing opinions, viewpoints, and levels of experience
+* Giving and gracefully accepting constructive criticism 
+* Providing sources of information when providing feedback on code or concepts
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement [here](https://form.asana.com/?k=p7aM0fpd3G4JGETDL_nYXg&d=8587152060687).
-All complaints will be reviewed and investigated promptly and fairly.
+### Examples of unacceptable behavior
+* Trolling, insulting, or personally attacking another person's code, PR, or experience level 
+* Publishing private information such as physical addresses, email information, credentials, or phone numbers of users
+* Posting of inappropriate language or imagery within code, comments, or PRs 
+* Unsolicited and/or unrelated mentions or pings to members of the community
+* Commenting or publishing content for promotional purposes only
+* Other conduct that could reasonably be considered inappropriate in a professional setting
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+### On the use of AI-generated solutions and content
+At HubSpot, if there’s one thing we love, it's technology. As generative AI tooling is advancing and iterating, many users are still getting accustomed to using such technology. 
 
-## Enforcement Guidelines
+The following are guidelines as they relate to the use of generative AI when submitting code or answering questions:
+* You are responsible for what you post, make sure to review, to the best of your ability, what is posted before publishing and revise the content to be in your tone of voice, as AI answers can occasionally use an authoritarian tone. You're remarkable and we want to hear it from you. 
+* Be Transparent: Just as our HEART value on transparency explains, be open and honest in your use of generative AI when posting. 
+* It's important to specify which AI was used when generating your code as each AI might provide different results from the same prompt.
+* Do not just copy and paste AI content to answer questions, provide solutions, or give a false impression of your experience. 
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Not following the guidelines above may, in some situations, result in a violation of this code of conduct. Please refer to the next section concerning violations and enforcement of this code of conduct.
 
-### 1. Correction
+## Enforcement of our Code of Conduct
+HubSpot’s Developer Relations Team, along with select members of the HubSpot Organization and community, are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior or actions that violate this code of conduct. 
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+Actions we may take include but are not limited to:
+* Removing, editing, or rejecting commits, code, comments, issues, or other content contributions to this organization and its repositories. 
+* Blocking (also known as Banning) a user's access to the organization or repository for either a certain length of time or indefinitely
+* Implementation of temporary interaction limits in response to incidents
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+It’s important to understand that actions taken regarding violations may warrant additional disciplinary action that extends to other areas of HubSpot’s Community such as the HubSpot Developer Slack and HubSpot’s Community Forums. 
 
-### 2. Warning
+When these actions are taken, the reasoning for moderation-based decisions will be provided where applicable and when appropriate.
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+## Reporting violations of the Code of Conduct
+To report violations of this code of conduct, please fill in the following form located at the link below:  
+[HubSpot Developer Community Code of Conduct Violation Reporting](https://form.asana.com/?k=p7aM0fpd3G4JGETDL_nYXg&d=8587152060687)
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication within the HubSpot Dev GitHub organization for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals, or a single violation deemed by the Community Leaders to be egregious enough to merit an immediate, permanent ban.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the HubSpot Dev GitHub organization.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+Contacting a member of the HubSpot Developer Relations team, members of the HubSpot Organization and/or community via unsolicited mentions or pings is strongly discouraged and may be considered a violation of our code of conduct with regards to harassment. 
